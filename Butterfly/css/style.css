@@ -1416,7 +1416,7 @@ img {
 		padding:0;
 	}
 
-
+/*imagen de index1*/
 .slides{
 	width:70%;
 	position:absolute;
@@ -1432,36 +1432,6 @@ img {
 	
 }
 
-.slidesjs-pagination{
-	background:#699b3f;
-	list-style:none;
-	overflow:hidden;
-}
-
-.slidesjs-pagination li {
-	float:left;
-}
-
-.slidesjs-pagination li a{
-	display:block;
-	padding:10px 20px;
-	color:black;
-	text-decoration:none;
-}
-.slidesjs-pagination li a:hover {
-	background:#6ec304;
-}
+/*index 2*/
 
 
-.slides .active {
-		background:#a3c685;
-}
-
-.slidesjs-navigation {
-	background:#a3c685;
-	color:black;
-	text-decoration:none;
-	display:inline-block;
-	padding:10px 20px;
-	float:right;
-}
